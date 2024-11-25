@@ -1,0 +1,3 @@
+To compile code:
+g++ 99.cpp -o 494 -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
+./99
